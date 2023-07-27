@@ -11,14 +11,7 @@
     "href": "posts/thon_finalproject_notebook.html",
     "title": "The Data",
     "section": "",
-    "text": "Description\nLink\nMotivation\nQuestions"
-  },
-  {
-    "objectID": "posts/thon_finalproject_notebook.html#data-visualisations",
-    "href": "posts/thon_finalproject_notebook.html#data-visualisations",
-    "title": "The Data",
-    "section": "Data Visualisations",
-    "text": "Data Visualisations"
+    "text": "Introduction\nDescription\nLink\nMotivation\nQuestions\n\n\nMethods\nData Summary\nSummary Statistics\nMissing Data\nData Preprocessing\n\n\nResults"
   },
   {
     "objectID": "about.html",
