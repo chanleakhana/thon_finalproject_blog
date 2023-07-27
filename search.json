@@ -21,15 +21,15 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/thon_finalproject_notebook.html",
-    "href": "posts/thon_finalproject_notebook.html",
+    "objectID": "posts/post-with-code/thon_finalproject_notebook.html",
+    "href": "posts/post-with-code/thon_finalproject_notebook.html",
     "title": "The Data",
     "section": "",
     "text": "Description\nLink\nMotivation\nQuestions"
   },
   {
-    "objectID": "posts/thon_finalproject_notebook.html#data-visualisations",
-    "href": "posts/thon_finalproject_notebook.html#data-visualisations",
+    "objectID": "posts/post-with-code/thon_finalproject_notebook.html#data-visualisations",
+    "href": "posts/post-with-code/thon_finalproject_notebook.html#data-visualisations",
     "title": "The Data",
     "section": "Data Visualisations",
     "text": "Data Visualisations"
